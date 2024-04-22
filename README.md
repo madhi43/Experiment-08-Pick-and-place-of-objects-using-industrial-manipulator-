@@ -1,9 +1,9 @@
 # Experiment-08-Pick-and-place-of-objects-using-industrial-manipulator-
 
-### Date:22/04/2024
-### Name: Srimathi K
-### Reg no:212221040161
-### Dept: CSE
+## Date:22/04/2024
+## Name: Srimathi K
+## Reg no:212221040161
+## Dept: CSE
 
 ### Aim :
       To pick and place a regular shape using two finger gripper on the conveyor belt 
