@@ -1,5 +1,10 @@
 # Experiment-08-Pick-and-place-of-objects-using-industrial-manipulator-
 
+### Date:22/04/2024
+### Name: Srimathi K
+### Reg no:212221040161
+### Dept: CSE
+
 ### Aim :
       To pick and place a regular shape using two finger gripper on the conveyor belt 
 ### Equipment Required: 
@@ -79,7 +84,18 @@ Installation position: floor, ceiling, walls.
 ![image](https://user-images.githubusercontent.com/36288975/201621235-3b8b46a9-3c19-4207-9ea2-6a7954eb6135.png)
 and click on the connect icon 
 
-3. click on the 
+#### Program
+
+![image](https://github.com/madhi43/Experiment-08-Pick-and-place-of-objects-using-industrial-manipulator-/assets/103943383/8f2a398c-2c02-4574-925a-e841f0526a7b)
+
+![image](https://github.com/madhi43/Experiment-08-Pick-and-place-of-objects-using-industrial-manipulator-/assets/103943383/8d6151c6-38ef-48dd-9faf-e5d5786d79fa)
+
+
+![Uploading image.png…]()
+
+
+
+![Uploading image.png…]()
 
 
 
@@ -91,16 +107,18 @@ and click on the connect icon
 
 
 
+### output video and screen shots of pick and place :
+![Uploading image.png…]()
+![Uploading image.png…]()
+![Uploading image.png…]()
+![Uploading image.png…]()
+![Uploading image.png…]()
+![Uploading image.png…]()
+![Uploading image.png…]()
+![Uploading image.png…]()
 
 
-
-
-
-
-
-### output video and screen shots of pick and place 
-
-
+https://drive.google.com/file/d/1LfLNZSjMv3GXcCaO1WVcT3xeU3UIM5KF/view?usp=drivesdk
 
 
 
@@ -108,7 +126,7 @@ and click on the connect icon
 
 ### Results: 
 
-
+Thus the experiment to pick and place a regular shape using two finger gripper on the conveyor belt is executed successfully.
 
 
 
