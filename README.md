@@ -1,4 +1,4 @@
-![image](https://github.com/madhi43/Experiment-08-Pick-and-place-of-objects-using-industrial-manipulator-/assets/103943383/41de56c0-9e27-42c0-82d4-026f37cd0834)# Experiment-08-Pick-and-place-of-objects-using-industrial-manipulator-
+ Experiment-08-Pick-and-place-of-objects-using-industrial-manipulator-
 
 ### Date:22/04/2024
 ### Name: Srimathi K
