@@ -1,4 +1,4 @@
- Experiment-08-Pick-and-place-of-objects-using-industrial-manipulator-
+### Experiment-08-Pick-and-place-of-objects-using-industrial-manipulator-
 
 ### Date:22/04/2024
 ### Name: Srimathi K
@@ -6,12 +6,11 @@
 ### Dept: CSE
 
 ### Aim :
-      To pick and place a regular shape using two finger gripper on the conveyor belt 
+To pick and place a regular shape using two finger gripper on the conveyor belt 
 ### Equipment Required: 
-      Instrial manipulator , teach pendant and associated program platform , two finger dh gripper 
+Instrial manipulator , teach pendant and associated program platform , two finger dh gripper 
       
 ### Theory: 
-
 A pick and place robot has several dedicated parts, such as:
 
 Robot Arm tool: A robotic arm, also known as a manipulator, is the extension of the robot by using cylindrical or spherical parts. links, and joints.
@@ -26,7 +25,6 @@ Controllers: Controllers synchronize and control the movement of different actua
 
 
 ### Two finger gripper 
-
 DH-Robotics
 Adaptive Gripper AG-95 TM Kit
 The AG-95 adaptive gripper is designed for multi-purpose gripping applications and can pick objects in different sizes and shapes without changing the end-of-arm tools, with a large stroke and adjustable gripping force. It’s also easy-to-use due to seamless integration with TM collaborative robots.
@@ -45,7 +43,6 @@ Self-locking
 ### Figure -01 DH gripper with two finger gripper 
 
 #### Specifications
-
 Opening stroke	95mm
 Gripping force 	45-160N
 Recommended max payload	3kg*
@@ -78,7 +75,6 @@ Installation position: floor, ceiling, walls.
 ### Figure -02 Doosan M1013 industrial collaborative robot manipulator 
 
 #### Procedure : 
-
 1. click on dart platfom icon ![image](https://user-images.githubusercontent.com/36288975/201621038-f1248586-5c20-40fd-8a74-68c7d8b44939.png)
 2. click on the internet interface 
 ![image](https://user-images.githubusercontent.com/36288975/201621235-3b8b46a9-3c19-4207-9ea2-6a7954eb6135.png)
@@ -119,6 +115,5 @@ https://drive.google.com/file/d/1LfLNZSjMv3GXcCaO1WVcT3xeU3UIM5KF/view?usp=drive
 
 
 ### Results: 
-
 Thus the experiment to pick and place a regular shape using two finger gripper on the conveyor belt is executed successfully.
 
